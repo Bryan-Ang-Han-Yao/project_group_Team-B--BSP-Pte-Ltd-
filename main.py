@@ -9,4 +9,6 @@ print()
 
 # You suck
 
-#whats up new 
+#whats up new
+
+# LOL
