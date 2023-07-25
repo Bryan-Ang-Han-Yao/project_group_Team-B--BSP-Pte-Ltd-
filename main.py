@@ -3,4 +3,4 @@ from pathlib import Path
 print()
 
 #Hello vlog, welcome to my guys
-hello bryan
+#hello bryan
