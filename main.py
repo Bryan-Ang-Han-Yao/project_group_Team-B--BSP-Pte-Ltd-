@@ -12,3 +12,7 @@ print()
 #whats up new
 
 # LOL
+
+print("lol")
+
+lol = 1234
